@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayaneider1" alt="brayaneider1" /></a> </p>
 
+- 🔭 I’m currently working on NTT DATA [Engenieer](https://co.nttdata.com/)
+
 - 🌱 I’m currently learning **Data Sciene and Architect**
 
 - 👯 I’m looking to collaborate on Kinlu [Kinlu Envios](https://github.com/kinlu-envios/frontend)
