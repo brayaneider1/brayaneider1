@@ -53,11 +53,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/9kp9jz.gif"  />
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/brayaneider1/brayaneider1/output/snake.svg" alt="Snake animation" />
 
 ###
 
