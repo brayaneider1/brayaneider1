@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Espacial projects that give value to UI design**
 
-- 💬 Ask me about **react,nest,spring,css,design,ux,ui**
+- 💬 Ask me about **react,react native,ionic,nest,spring,css,design,ux,ui**
 
 - 📫 How to reach me **brayaneider1@gmail.com**
 
